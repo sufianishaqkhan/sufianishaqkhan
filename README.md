@@ -3,6 +3,11 @@
 <h4 align="center">A full stack software engineer with around 4.5+ years of experience in creating and designing software in a test-driven environment. I love working on new projects and meeting new people. I’m looking to collaborate on any projects related to the below mentioned technologies.</h4>
 </div>
 
+<div align="center">
+  <img  src="https://github.com/osaaama01/osaaama01/blob/main/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<br>
 
 **Tech Stack:**
 

@@ -1,10 +1,18 @@
-:wave: Hey!
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sufyan</h1>
+<h4 align="center">A full stack software engineer with around 4.5+ years of experience in creating and designing software in a test-driven environment. I love working on new projects and meeting new people. I’m looking to collaborate on any projects related to the below mentioned technologies.</h4>
+</div>
 
-I’m **Sufian Ishaq Khan**. Just your regular ol' developer trying to make a living writing code, dreaming up exceptional solutions to all your software needs using stackoverflow. Lol jk. Or am i? :smiling_imp:
 
-Full Stack .NET developer by day. Maining C#, JavaScript, HTML, CSS and everything web. (Love working on desktop and mobile applications also :sunglasses:)
+**Tech Stack:**
 
-**Vue** is the best frontend framework though. This is important to me. Don't argue. Willing to throw hands if argued with. :triumph:
+    ✨ Languages:            C#, HTML, JavaScript, jQuery, CSS, SQL, with working knowledge of Java, Python
+    ✨ Frameworks:           .NET, .NET Core, .NET 6, ASP.NET, Web API, MVC, ReactJS, Vue.js, AngularJS,
+                              Knockout.js, SQL Server, SQL Server Integration Services
+    ✨ Tools/Technologies:   CI/CD, Git/GitLab, AWS, Azure, ES6, Microservices, OWIN, REST, Elastic Search,
+                              OpenSearch, Unit/Integration Testing, Puppeteer, Selenium, Jira, Agile, Seq.
 
-> Heres an accurate representation of me coding:
+📫 How to reach me: **sufianishaqkhan@gmail.com**
+
+> Also, here is an accurate representation of me coding (just for laughs):
 > ![alt text](https://github.com/sufianishaqkhan/sufianishaqkhan/blob/main/das-nuts.gif "Das nuts")

@@ -7,7 +7,7 @@
   <img  src="https://github.com/osaaama01/osaaama01/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<br>
+<br/>
 
 **Tech Stack:**
 
@@ -19,6 +19,6 @@
 
 📫 How to reach me: **sufianishaqkhan@gmail.com**
 
-<br>
+<br/>
 > Also, here is an accurate representation of me coding (just for laughs):
 > ![alt text](https://github.com/sufianishaqkhan/sufianishaqkhan/blob/main/das-nuts.gif "Das nuts")

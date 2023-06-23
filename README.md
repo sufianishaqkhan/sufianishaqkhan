@@ -15,7 +15,7 @@
                               Knockout.js, SQL Server, SQL Server Integration Services
     ✨ Tools/Technologies:   CI/CD, Git/GitLab, AWS, Azure, ES6, Microservices, OWIN, REST, Elastic Search,
                               OpenSearch, Unit/Integration Testing, Puppeteer, Selenium, Jira, Agile, Seq.
-<br/>
+
 📫 How to reach me: **sufianishaqkhan@gmail.com**
 <br/><br/><br/>
 

@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sufyan</h1>
-<h4 align="center">A full stack software engineer with around 5+ years of experience in creating and designing software in a test-driven environment. I love working on new projects, learning newer technologies and meeting new people. I’m looking to collaborate on any projects related to the below mentioned tools and technologies.</h4>
+<h4 align="center">Full stack software engineer with around 5+ years of experience in creating and designing software in a test-driven environment. I love working on new projects, learning newer technologies and meeting new people. I’m looking to collaborate on any projects related to the below mentioned tools and technologies.</h4>
 </div>
 
 <div align="center">

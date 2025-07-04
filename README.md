@@ -11,12 +11,13 @@
 
 **Tech Stack:**
 
-    ✨ Languages:             C#, JavaScript, jQuery, HTML, CSS, SQL, with working knowledge of Java, Python
+    ✨ Languages:            C#, JavaScript, jQuery, HTML, CSS, SQL, with working knowledge of Java, Python
     ✨ Frameworks:           .NET, .NET Core, .NET 6, .NET 8, .NET 9, ASP.NET, Web API, MVC, React, Vue.js,
                               AngularJS, Knockout.js, SQL Server, SQL Server Integration Services, Oracle Database
     ✨ Tools/Technologies:   CI/CD, Git/GitLab, Azure, Azure Functions, Azure Data Factory, Azure Logic Apps, Azure
-                              Azure Pipelines, AWS Cognito, Amazon S3, Microservices, OWIN, Dapper, REST, Redis,
-                              Elastic Search, OpenSearch, Unit/Integration Testing, Puppeteer, Selenium, Jira, Agile, Seq.
+                              Azure Pipelines, Azure APIM, AWS Cognito, Amazon S3, Microservices, OWIN, Dapper, REST,
+                              Redis, Elastic Search, OpenSearch, Unit/Integration Testing, Puppeteer, Selenium, Jira,
+                              Agile, Seq.
 
 📫 How to reach me: **sufianishaqkhan@gmail.com**
 <br/><br/>
